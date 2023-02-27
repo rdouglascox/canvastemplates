@@ -104,5 +104,7 @@ The result should be the following .html:
 </ul>
 ```
 
-Ta da!
+Obviously this is a simple example. You could generate several different pages in one go from the template. And you could include a lot more data in the data file. But how nice to only have to update the data in once place and be sure that it appears correctly throughout your entire site?
+
+
 
