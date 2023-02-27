@@ -1,7 +1,7 @@
 
 # Overview
 
-Tired of chasing down dates and changing data manually on your Canvas site? Wish there was a better way? Well now there is. Using pandoc and markdown you can easily automatically generate your Canvas pages with all the data in the right place.
+Tired of chasing down dates and changing data manually on your Canvas site? Wish there was a better way? Well now there is. Using [pandoc](https://pandoc.org/) and markdown you can easily automatically generate your Canvas pages with all the data in the right place.
 
 # How to do it
 
