@@ -1,6 +1,3 @@
----
-title: A Simple Templating Strategy for Canvas Sites
----
 
 # Overview
 
